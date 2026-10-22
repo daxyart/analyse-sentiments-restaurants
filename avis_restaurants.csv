@@ -1,0 +1,25 @@
+avis;sentiment
+"Le repas était délicieux et le service rapide";positif
+"Très bon accueil, je reviendrai";positif
+"La cuisine est excellente";positif
+"Le serveur était aimable et attentif";positif
+"Bon rapport qualité-prix, je recommande";positif
+"Le plat était froid et sans goût";négatif
+"Service très lent, nous avons trop attendu";négatif
+"Personnel désagréable et mauvaise expérience";négatif
+"Prix trop élevé pour une qualité médiocre";négatif
+"Je ne recommande pas ce restaurant";négatif
+Le repas était froid et le service lent;négatif
+Le plat était froid, le serveur désagréable;négatif
+Le dîner était délicieux et le personnel accueillant;positif
+La nourriture était excellente et l'accueil chaleureux;positif
+La commande était froide et le service lent;négatif
+Les frites étaient froides et molles;négatif
+J'ai attendu longtemps avant d'être servi;négatif
+La commande était chaude et arrivée rapidement;positif
+Les frites étaient chaudes et croustillantes;positif
+J'ai été servi rapidement et le repas était délicieux;positif
+La commande est arrivée incomplète et froide;négatif
+Nous avons attendu une heure et le service était désagréable;négatif
+Les burgers étaient chauds et très bons, service rapide;positif
+Personnel souriant, commande prête rapidement, je reviendrai;positif
